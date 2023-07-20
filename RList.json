@@ -1,0 +1,227 @@
+[
+      {
+            "cuisine": [
+                  "Japanese"
+            ],
+            "name": "Ebisu",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Indian"
+            ],
+            "name": "Clay Oven",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Japanese"
+            ],
+            "name": "Shabu House",
+            "ToD": [
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Japanese"
+            ],
+            "name": "Sushi Suki",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "American"
+            ],
+            "name": "Toast",
+            "ToD": [
+                  "Breakfast"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Thai"
+            ],
+            "name": "King of Thai",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Korean"
+            ],
+            "name": "Han Il Kwan",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Mexican"
+            ],
+            "name": "La Corneta",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "American"
+            ],
+            "name": "Noah\"s Bagels",
+            "ToD": [
+                  "Breakfast"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Chinese",
+                  "Fast Food"
+            ],
+            "name": "Panda Express",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Chinese",
+                  "Korean"
+            ],
+            "name": "JJamPPong",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "American",
+                  "Fast Food"
+            ],
+            "name": "Kfc",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Mexican",
+                  "Fast Food"
+            ],
+            "name": "Taco Bell",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Chinese",
+                  "Noodles"
+            ],
+            "name": "Red Bowl",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Chinese"
+            ],
+            "name": "Crazy Pepper",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "American",
+                  "Fast Food"
+            ],
+            "name": "Habit Burger",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "American"
+            ],
+            "name": "Tennessee Grill",
+            "ToD": [
+                  "Breakfast",
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Chinese"
+            ],
+            "name": "Win Garden",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "Filipino",
+                  "American"
+            ],
+            "name": "Filam",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "American"
+            ],
+            "name": "Calibur",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "American"
+            ],
+            "name": "Gorilla Barbeque",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      },
+      {
+            "cuisine": [
+                  "American"
+            ],
+            "name": "Breakwater Barbeque",
+            "ToD": [
+                  "Lunch",
+                  "Dinner"
+            ]
+      }
+]
